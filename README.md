@@ -5,8 +5,8 @@
 <body>
   <main>
     <section class="hero container">
-      <h1>aqui vao as tabelas</h1>
-      <p>Tabelas (02,3,4,5,6,7)</p>
+      <h1>Tabelas</h1>
+      <p>(2,3,4,5,6,7)</p>
       <a class="cta" href="https://github.com/notflipsbot/ivan.io/blob/main/Table2Alfven-X.md" target="_blank" rel="noopener">Tabela 2 - Catálogo de eventos Alfvênicos de longa duração (1999–2024) identificados in-situ a 1 UA usando o critério de correlação Vx-Bx</a>
       <br><br>
       <a class="cta" href="https://github.com/notflipsbot/ivan.io/blob/main/Table3Alfven-Y.md" target="_blank" rel="noopener">Tabela 3 - Catálogo de eventos Alfvênicos de longa duração (1999–2024) identificados in-situ a 1 UA usando o critério de correlação Vy-By.</a>
